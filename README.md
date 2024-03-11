@@ -1,5 +1,7 @@
 # Historical daily temperature values of Magdeburg
 
+[Link to the upgraded version of this app](https://github.com/kabuldinoff/temperature-review-with-api)
+
 ## To run project locally
 
 1. Clone project
